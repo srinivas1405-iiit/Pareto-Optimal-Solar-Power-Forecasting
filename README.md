@@ -1,4 +1,4 @@
-# 🌞 Multi-Objective Hyperparameter Optimization for Solar Power Forecasting
+# 🌞 Pareto-Optimal Solar Power Forecasting
 
 This repository contains our **Machine Learning for Modern Optimization (MOML)** project on forecasting solar power output using meteorological data from Berlin. We approach this as a **multi-objective regression problem** using **XGBoost**, optimizing simultaneously for:
 
