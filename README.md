@@ -1,6 +1,6 @@
 # 🌞 Pareto-Optimal Solar Power Forecasting
 
-This repository contains our **Machine Learning for Modern Optimization (MOML)** project on forecasting solar power output using meteorological data from Berlin. We approach this as a **multi-objective regression problem** using **XGBoost**, optimizing simultaneously for:
+This repository contains our **Multi Objective Machine Learning (MOML)** project on forecasting solar power output using meteorological data from Berlin. We approach this as a **multi-objective regression problem** using **XGBoost**, optimizing simultaneously for:
 
 - **Accuracy** (Mean Squared Error - MSE)
 - **Bias** (Mean Bias Error - MBE)
